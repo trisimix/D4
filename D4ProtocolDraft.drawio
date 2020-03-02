@@ -1,4 +1,4 @@
-<mxfile modified="2020-03-02T21:13:41.659Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="hAVC5pX2C3M0lWR6qWLz" version="12.7.9" type="github">
+<mxfile modified="2020-03-02T21:14:49.989Z" host="www.draw.io" agent="Mozilla/5.0 (X11; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="1f97dEnsYvDmfPvyKYLn" version="12.7.9" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="864" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
             <mxPoint y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="adgGO3WTwog3rF3tSFoA-443" value="&amp;nbsp; Server 2 RSA:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;align=left;spacingLeft=5;fillColor=#ddeeff;strokeColor=none;resizeWidth=1;" parent="adgGO3WTwog3rF3tSFoA-439" vertex="1">
+        <mxCell id="adgGO3WTwog3rF3tSFoA-443" value="&amp;nbsp; Server 2 RSA:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;align=left;spacingLeft=5;resizeWidth=1;fillColor=none;strokeColor=none;fontColor=#575757;" parent="adgGO3WTwog3rF3tSFoA-439" vertex="1">
           <mxGeometry width="200" height="20" relative="1" as="geometry">
             <mxPoint y="70" as="offset" />
           </mxGeometry>
